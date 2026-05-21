@@ -68,7 +68,7 @@ $event = [
                 "currency" => "BRL",
                 "value" => $amount,
                 "order_id" => $transaction_id,
-                "content_name" => $data['items']['title'] ?? "Doação",
+                "content_name" => $data['items']['title'] ?? "Doa聛0艩4聛0艩0o",
                 "content_type" => "product"
             ]
         ]
