@@ -1,0 +1,17 @@
+{"events_received":1,"messages":[],"fbtrace_id":"AQA2U2pxsXPtAOuxiH4E4qX"}
+{"events_received":1,"messages":[],"fbtrace_id":"AwuA7N8MBr9IKCBB5K89yWl"}
+{"events_received":1,"messages":[],"fbtrace_id":"A762v-RhoZYNcmp0QaJgrdg"}
+{"events_received":1,"messages":[],"fbtrace_id":"Aq6-7x0FklPMmYKWvjd8CVa"}
+{"events_received":1,"messages":[],"fbtrace_id":"AX3pyp5hoPduxXt2tVjx-4t"}
+{"events_received":1,"messages":[],"fbtrace_id":"AGTEAX5GPXSzlgcDmhm0bnF"}
+{"events_received":1,"messages":[],"fbtrace_id":"AF21t-mtPGvx75a7K9qLRui"}
+{"error":{"message":"Malformed access token COLE_SEU_TOKEN_META_AQUI","type":"OAuthException","code":190,"fbtrace_id":"ARoN6ToHYXmdjAVJzlvb-3E"}}
+{"error":{"message":"Malformed access token COLE_SEU_TOKEN_META_AQUI","type":"OAuthException","code":190,"fbtrace_id":"AClULxeBt2URFvv-bFhmzdn"}}
+{"events_received":1,"messages":[],"fbtrace_id":"A2MPwhsaVUtLSidkyKeEWub"}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"A_QcVeo2EpBkBjNEPsuqpRW"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"Ay2bZSgrQPbC_xW09Cp8KLJ"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"AFOPn_j6ZC5LlIHRM2paj8Y"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"AF8QI5t8DiOrH5_0MlAYdP8"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"Axumary-6bTxzM--xhSCCM4"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"AwMwinrvoBzKfZvD9Y3hdl2"}}
+{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":2804019,"is_transient":false,"error_user_title":"Erro de par\u00e2metro da API do lado do servidor","error_user_msg":"Unexpected key \"test_event_code\" on param \"$['data'][0]\".","fbtrace_id":"AVtWlYofLUtiWgz3Wx-NNE6"}}
